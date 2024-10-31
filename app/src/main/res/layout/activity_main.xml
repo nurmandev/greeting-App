@@ -29,7 +29,7 @@
         android:layout_height="wrap_content"
         android:hint="Enter your Name"
         android:textColor="#DDDDDD"
-        android:textColorHint="#AAAAAA"
+        android:textColorHint="#333"
         android:background="@drawable/rounded_textview_background"
         app:layout_constraintTop_toBottomOf="@id/title"
         app:layout_constraintBottom_toTopOf="@id/submitBTN"
